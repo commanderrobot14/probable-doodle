@@ -2,9 +2,9 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey shotyman33!
+Hey Ariel Cezar Correa Manansala 
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+ I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 

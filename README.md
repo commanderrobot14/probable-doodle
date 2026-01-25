@@ -2,9 +2,9 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey shotyman33!
+Hey im shotyman33!
 
-Mona here. I prepared this exercise to help you begin a journey of learning and collaboration. Each small step you take builds new skills and opens possibilities — experiment, make mistakes, ask questions, and celebrate progress. 💚
+ I prepared this exercise to help you begin a journey of learning and collaboration. Each small step you take builds new skills and opens possibilities — experiment, make mistakes, ask questions, and celebrate progress. 💚
 
 ## Introduction
 
